@@ -1,0 +1,21 @@
+/* ###################################################### */
+/* imports */
+/* !Font Awesome */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css");
+/* ############## */
+/* !Fonts */
+/* ?English */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Noto+Sans+Arabic:wght@100..900&family=Oswald&family=Poppins&display=swap');
+/* ?Arabic-عربي */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@100..900&family=Poppins&display=swap');
+/* ###################################################### */
+/* !Variables */
+:root{
+  /* !Colors */
+  --main-color: #F8EDFF;
+  --accent-color: #363434;
+  --shadow-color: #BFCFE7;
+  --text-color: #363434;
+}
+/* ################## */
